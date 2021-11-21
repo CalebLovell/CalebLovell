@@ -1,5 +1,5 @@
 ### Hello there! I'm Caleb Lovell.
-#### I currently freelance from home in the [Silicon Slopes](https://en.wikipedia.org/wiki/Silicon_Slopes) ⛰️ as a Fullstack Web & Mobile Engineer.
+#### I currently freelance as a Fullstack Web & Mobile Engineer.
 #### I'm obsessed with...
 - Writing organized, documented code with **TypeScript**, **ESLint** & **Prettier** 🤓
 - **React / Next.js** & **React Native** frontends | **SQL**, **NoSQL**, & **Serverless** backends 
